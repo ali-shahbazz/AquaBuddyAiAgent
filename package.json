@@ -1,6 +1,8 @@
 {
   "name": "my-agent",
   "dependencies": {
+    "chrono-node": "^2.7.7",
+    "googleapis": "^144.0.0",
     "upstreet-agent": "file:./packages/upstreet-agent"
   }
 }
