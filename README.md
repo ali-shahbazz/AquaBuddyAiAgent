@@ -64,13 +64,12 @@ Ensure you have Node.js installed, then run:
 npm install usdk
 ```
 
-3. **Run the Agent**
+## Usage
+**Run the Agent**
 Start Aqua Buddy in your terminal:
 ```bash
 usdk chat <AGENT PATH>
 ```
-
-## Usage
 
 ### Log Water Intake
 Log your water consumption by typing messages like:
